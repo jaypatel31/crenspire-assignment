@@ -1,0 +1,17 @@
+.filter_container{
+    padding-top: 60px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter_container .type_filter{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+}
+
+.filter_container .type_filter .input_container label{
+    padding: 4px;
+}
